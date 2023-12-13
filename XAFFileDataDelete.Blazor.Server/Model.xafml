@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems NavigationStyle="Accordion">
+    <Items>
+      <Item Id="@d8c65e14-bef5-4991-9f95-5669bd30bd81" ViewId="FileData_ListView" IsNewNode="True" />
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="23.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views DefaultListEditor="DevExpress.ExpressApp.Blazor.Editors.DxGridListEditor" />
+</Application>
